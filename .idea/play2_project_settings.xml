@@ -6,14 +6,15 @@
         <entry key="githubTutorial">
           <value>
             <ProjectSettingsEntry>
-              <option name="playDistrPath" value="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play_2.13/2.8.19/play_2.13-2.8.19.jar" />
+              <option name="playDistrPath" value="$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/typesafe/play/play_2.13/2.8.19/play_2.13-2.8.19.jar" />
             </ProjectSettingsEntry>
           </value>
         </entry>
         <entry key="root">
           <value>
             <ProjectSettingsEntry>
-              <option name="confDir" value="$PROJECT_DIR$/app" />
+              <option name="sourceDir" value="C:\Users\rosha\Desktop\ExtendedProject2Template\app" />
+              <option name="confDir" value="C:\Users\rosha\Desktop\ExtendedProject2Template\app" />
               <option name="templateImports">
                 <list>
                   <option value="_root_.play.twirl.api.TwirlFeatureImports._" />
@@ -36,7 +37,7 @@
                   <option value="controllers.Assets.Asset" />
                 </list>
               </option>
-              <option name="uri" value="$PROJECT_DIR$/../../../Lesson%20planning/ExtendedProject2/gitHubExProject2" />
+              <option name="uri" value="/C:/Users/rosha/Desktop/ExtendedProject2Template" />
             </ProjectSettingsEntry>
           </value>
         </entry>
